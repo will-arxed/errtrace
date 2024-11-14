@@ -1,0 +1,5 @@
+- id: errtrace
+  name: errtrace
+  language: golang
+  entry: errtrace -w
+  types: [go]
